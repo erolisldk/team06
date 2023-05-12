@@ -10,6 +10,11 @@ ilişkilendirmek için kullanılır
 (yani commitlemek için beklenen yer) gönderir
 
 git status ile mevcut durumunu kontrol edebilirsin
+
+git commit -m "isim"
+
+git log --oneline
+git show [hash code]
 - 3. git commit -m "mesaj" --> Staging area'dan commit stora dosyalarımı göndermek için kullanılır
 (Commit yani version yani sürüm oluşmuş olur
 - 4. git push --> Uzak repo'ya (GitHub) göndermek için kullandığımız kod.

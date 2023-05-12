@@ -1,20 +1,11 @@
 public class deneme {
   /*
-
-  11
   GIT KOMUTLARI
 ---------------
 - 1. git init --> Local repo oluşturmak için yani git ile klasörümüzün içindeki dosyaları
 ilişkilendirmek için kullanılır
 - 2. git add . --> Working space'deki (yani yerel) dosyadarımı staging area'ya
 (yani commitlemek için beklenen yer) gönderir
-
-git status ile mevcut durumunu kontrol edebilirsin
-
-git commit -m "isim"
-
-git log --oneline
-git show [hash code]
 - 3. git commit -m "mesaj" --> Staging area'dan commit stora dosyalarımı göndermek için kullanılır
 (Commit yani version yani sürüm oluşmuş olur
 - 4. git push --> Uzak repo'ya (GitHub) göndermek için kullandığımız kod.
@@ -23,8 +14,6 @@ Yalnız git push komutunu direk kullanmak istersek bir kere
                 git push -u origin master
                 -- Bu iki komutu tek seferde kullandıktan sonra diğer commit'lerden sonra sadece
                 git push komutu kullanırız.
-
-
 
 --------Kurulum:
 1. Adim: Git uygulamasini indir ve kur (https://www.git-scm.com/)
